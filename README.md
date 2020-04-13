@@ -9,7 +9,9 @@
  
 **Workflow**
 
-The project consist of three services ([see diagram](https://github.com/pinegink/microservices-boot-cloud-data/blob/master/diagram.jpg))
+The project consist of three services 
+
+![](https://github.com/pinegink/microservices-boot-cloud-data/blob/master/diagram.jpg)
 
 All three services are connected to Postgres DB and Spring Data JPA is used for handling
 
